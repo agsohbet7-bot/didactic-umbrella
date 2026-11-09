@@ -1,2 +1,0 @@
-# didactic-umbrella
-Agsohbet
